@@ -1,6 +1,6 @@
 # Developer Blog Content Generator
 
-A content generation framework implementing Amazon 4Cs writing principles (Clear, Concise, Correct, Conversational) for creating engaging technical blog posts.
+A content generation framework implementing Amazon 4Cs writing principles (Clear, Concise, Correct, Conversational) for creating engaging technical blog posts. 
 
 ## Directory Structure
 
