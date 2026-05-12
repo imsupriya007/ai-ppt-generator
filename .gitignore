@@ -3,7 +3,7 @@ node_modules/
 __pycache__/
 *.pyc
 backend/venv/
-backend/lambda_functions/*.egg-info/
+backend/lambda_functions/*.egg-info/ 
 
 # Environment variables
 .env
