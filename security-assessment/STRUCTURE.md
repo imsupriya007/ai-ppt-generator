@@ -6,7 +6,7 @@
 security-assessment/
 ├── 📄 SECURITY-ASSESSMENT-REPORT.md    # Complete security assessment (376 vulnerabilities)
 ├── 📚 README.md                        # Usage guide and documentation
-├── 📚 docs/CLI-USAGE-EXAMPLES.md       # Practical CLI examples
+├── 📚 docs/CLI-USAGE-EXAMPLES.md       # Practical CLI examples 
 │
 ├── ⚙️ src/                             # Production source code
 │   ├── cli/                            # Command-line interface
