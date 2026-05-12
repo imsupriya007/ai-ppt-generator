@@ -7,7 +7,7 @@
 
 ## Overview
 
-Enterprise AI-powered presentation generator with complete serverless AWS architecture. The system combines document upload, RAG (Retrieval-Augmented Generation) processing, and AI-powered presentation creation into a unified SaaS platform using AWS-native services.
+Enterprise AI-powered presentation generator with complete serverless AWS architecture. The system combines document upload, RAG (Retrieval-Augmented Generation) processing, and AI-powered presentation creation into a unified SaaS platform using AWS-native services
 
 ## Key Features
 
