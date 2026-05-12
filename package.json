@@ -8,7 +8,7 @@
     "infrastructure",
     "security-assessment",
     "blog-content-generator"
-  ],
+  ], 
   "scripts": {
     "install:all": "npm install && npm run install:frontend && npm run install:infrastructure",
     "install:frontend": "cd frontend && npm install",
